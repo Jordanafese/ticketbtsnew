@@ -125,7 +125,6 @@ div[for="head_info"] {
     grid-template-columns: auto auto auto;
     grid-gap: 50px;
     padding: 20px 12px;
-    height: 58px;
 }
 
 div[for="head_info"] > div {
@@ -175,7 +174,7 @@ div[for="content"] > div div:nth-child(1) {
 }
 
 div[for="content"] > div div:nth-child(2) {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 div[for="timer"] {
