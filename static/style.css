@@ -234,7 +234,7 @@ div[for="btns"] {
     margin-top: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 3px;
+    grid-gap: 12px;
 }
 
 div[for="btns"] button {
