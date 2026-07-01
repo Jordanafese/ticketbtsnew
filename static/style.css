@@ -124,7 +124,8 @@ div[for="head_info"] {
     display: grid;
     grid-template-columns: auto auto auto;
     grid-gap: 50px;
-    padding: 20px 12px;
+    padding: 25px 12px;
+    height: 108px;
 }
 
 div[for="head_info"] > div {
