@@ -232,7 +232,7 @@ div[for="btns"] {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 12px;
-    width: 420px;
+    width: 380px;
 }
 
 div[for="btns"] button {
