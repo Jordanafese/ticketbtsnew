@@ -175,7 +175,7 @@ div[for="content"] > div div:nth-child(1) {
 }
 
 div[for="content"] > div div:nth-child(2) {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 div[for="timer"] {
